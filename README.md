@@ -1,4 +1,4 @@
-# CS 230 Portfolio Submission: The Gaming Room Project  
+# The Gaming Room Project  
 
 ## Client Summary 
 The Gaming Room sought to expand their Android-exclusive game *Draw It or Lose It* into a cross-platform solution (Windows, macOS, Linux, and mobile). As a creative guessing game requiring unique team/player names and single-instance memory constraints, the project demanded a robust architecture balancing scalability, security, and real-time multiplayer functionality. My software design document outlined a Linux-based server solution with PostgreSQL storage, RESTful/WebSocket APIs, and containerized deployment to meet these needs.
